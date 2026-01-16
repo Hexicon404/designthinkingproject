@@ -1,11 +1,11 @@
 COVID-19 Tracker
 
-It provides real-time tally of COVID-19 patient at the global level.
+It provides real-time tally of COVID-19 patient at the global level
 
 
 
 ## Features
-* Real-time updates of COVID-19 patients
+* Real-time trackinbg and updates of COVID-19 patients
 * Global data available
 * Total number of tested people available
 * Sorting of data available.
@@ -29,3 +29,4 @@ It provides real-time tally of COVID-19 patient at the global level.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
